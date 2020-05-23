@@ -1,6 +1,6 @@
 {
 	"name":"Featured Products",
-	"version":"1.0.0",
+	"version":"1.1.0",
 	"description":"Adds a featured product grid section in the fronpage. Template must have a <i>slide</i> widget area.",
 	"options":{
 		"category":{
